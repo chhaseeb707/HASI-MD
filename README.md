@@ -47,7 +47,7 @@
 </a>
 <br><br>
 <h3 style="color:#66ff66;">🚀 Step 3: Deploy on Heroku</h3>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/chhaseeb47/HASI-MD" target="_blank">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/chhaseeb707/HASI-MD" target="_blank">
 <img src="https://img.shields.io/badge/DEPLOY_HEROKU-66ff66?style=for-the-badge&logo=heroku&logoColor=black&labelColor=001a00"/>
 </a>
 
